@@ -7,6 +7,6 @@
 <p>感受与1.0的版本的区别</p>
 
 #License
-<a href="http://wuzuoyi.com">about me</a><br/>
+<a href="http://www.webnpm.com/">about me</a><br/>
 Copyright (c) 2011-2016 Mr.Z(QQ:953043100)
 
